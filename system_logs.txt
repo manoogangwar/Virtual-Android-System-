@@ -1,0 +1,3 @@
+OS Version: 
+Device Model: 
+Available Memory: 
